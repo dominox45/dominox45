@@ -16,9 +16,9 @@
 
 - <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Actualmente estoy en 3er año de la carrera.
 - <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Mis lenguajes fav son Java y Python.
-- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Fan de escuchar musica y hacer ejercicio.
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Mis pasatiempos son escuchar música y hacer ejercicio.
 - <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Me gustan los animales y sobretodo a las nutrias
-- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Mi banda fav es Interpol y mi cancion fav "Obstacle 1" .
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Mi banda fav es Interpol y mi cancion "Obstacle 1" .
 
 ---
 
