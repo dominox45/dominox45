@@ -1,33 +1,23 @@
-<h3 title="Perfil Técnico"> Hey 👋, soy Facundo!</h3>
+# Hola, me llamo Facundo - aka Facu <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh1YnI0aGZhdzNybmNycnlmbWRveHJzNW4xN2o0dW4xcWdxNXh0aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ok71J4AS5hfWuvSlXQ/giphy.gif" />
 
-<a href="https://www.linkedin.com/in/tu-perfil-real">
-  <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<br />
-<br />
+<p align="left">
+  <small>📍 Marte, Planeta rojo &emsp; 🎈 27/08/2005 &emsp;</small>
+  <a href="https://youtu.be/lppzXmB_aPM">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5nemZkeGJ6ZXpiNmc3OXhnZjNlbWpwNnlpZm41NWJjZHFtcTZqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OebVY5vELd4ZeGMYru/giphy.webp" height="50px" alt="Mi canción del momento" />
+  </a>
+</p>
 
-Un **Ingeniero en Formación** ***Entusiasta de la Arquitectura de Software*** 🚀.
- 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+## Soy un estudiante en Ingeniería Informática. :()
+<img align="right" alt="GIF" height="150px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl2MXZham84aWZscHFlazBpNDU0Zmx4MHZxajJnd2NvaHVzYTJidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5bqafbnXnDgpjfqcT/giphy.gif" />
 
-**¡Sobre mí!**
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Actualmente estoy en 3er año de la carrera.
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Mis lenguajes fav son Java y Python.
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Me encanta escuchar musica y hacer ejercicio.
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Amo a los animales y sobretodo a las nutrias
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Mi banda fav es Interpol y mi cancion fav "Obstacle 1" .
 
-- 👨🏽‍💻 Estudiante de 3er año de Ingeniería Informática en la Universidad Nacional de Jujuy (UNJu).
-- 🌱 Actualmente enfocado en **Java** y **Python**, con fuerte interés en el diseño de bajo nivel y la lógica formal. 
-- 🤔 Mi interés principal radica en la arquitectura de computadoras, los sistemas operativos y la gestión de memoria.
-- 🏋️‍♂️ Equilibrando el desarrollo de sistemas robustos con el entrenamiento físico diario en el gimnasio.
-- 📫 Contáctame en: [tu-email@gmail.com](mailto:tu-email@gmail.com)
 
-**Lenguajes y Herramientas Base:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=dominox45&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Estadísticas de GitHub">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominox45&count_private=true&theme=radical" alt="Racha de Commits" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tolaba.fet@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" /></a>
+<a href="https://open.spotify.com/user/7mlguey3rjyy1a950990lc8h8?si=020c0e386cb24580"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" height="28px" alt="Spotify" /></a>
