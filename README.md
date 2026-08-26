@@ -1,21 +1,24 @@
-# Hola, me llamo Facundo - aka Facu <img width="90px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh1YnI0aGZhdzNybmNycnlmbWRveHJzNW4xN2o0dW4xcWdxNXh0aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ok71J4AS5hfWuvSlXQ/giphy.gif" />
-
+# Hola, me llamo Facundo - aka Facu <img width="60px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh1YnI0aGZhdzNybmNycnlmbWRveHJzNW4xN2o0dW4xcWdxNXh0aCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ok71J4AS5hfWuvSlXQ/giphy.gif" />
 <p align="left">
   <small>📍 Marte, Planeta rojo &emsp; 🎈 27/08/2005 &emsp;</small>
   <a href="https://youtu.be/lppzXmB_aPM">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5nemZkeGJ6ZXpiNmc3OXhnZjNlbWpwNnlpZm41NWJjZHFtcTZqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OebVY5vELd4ZeGMYru/giphy.webp" height="50px" alt="Mi canción del momento" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5nemZkeGJ6ZXpiNmc3OXhnZjNlbWpwNnlpZm41NWJjZHFtcTZqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OebVY5vELd4ZeGMYru/giphy.webp" height="30px" alt="Mi canción del momento" />
   </a>
 </p>
 
 ## Soy un estudiante en Ingeniería Informática. :()
-<img align="right" alt="GIF" height="150px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl2MXZham84aWZscHFlazBpNDU0Zmx4MHZxajJnd2NvaHVzYTJidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5bqafbnXnDgpjfqcT/giphy.gif" />
+
+<picture>
+  <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-REPO/main/blank.png">
+  <img align="right" hspace="100" alt="GIF" height="130px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl2MXZham84aWZscHFlazBpNDU0Zmx4MHZxajJnd2NvaHVzYTJidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5bqafbnXnDgpjfqcT/giphy.gif" />
+</picture>
+
 
 - <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Actualmente estoy en 3er año de la carrera.
 - <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Mis lenguajes fav son Java y Python.
-- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Me encanta escuchar musica y hacer ejercicio.
-- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Amo a los animales y sobretodo a las nutrias
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Fan de escuchar musica y hacer ejercicio.
+- <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Me gustan los animales y sobretodo a las nutrias
 - <img width="16px" src="https://img.icons8.com/?size=100&id=16341&format=png&color=FF3D00" /> Mi banda fav es Interpol y mi cancion fav "Obstacle 1" .
-
 
 ---
 
